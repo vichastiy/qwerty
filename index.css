@@ -6,13 +6,13 @@ div#space
 {
    width: 1px;
    height: 50%;
-   margin-bottom: -1423px;
+   margin-bottom: -1311px;
    float:left
 }
 div#container
 {
    width: 960px;
-   height: 2846px;
+   height: 2623px;
    margin: 0 auto;
    position: relative;
    clear: left;
@@ -49,20 +49,6 @@ a:hover
 input:focus, textarea:focus, select:focus
 {
    outline: none;
-}
-#wb_Image4
-{
-   vertical-align: top;
-}
-#Image4
-{
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
 }
 #wb_Image3
 {
